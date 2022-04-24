@@ -1,0 +1,121 @@
+- name: Radix Sort
+  year: 1887
+- name: Hellerith's Sorting Machine
+  year: 1901
+- name: Merge Sort
+  year: 1945
+- name: Insertion Sort
+  year: 1946
+- name: Counting Sort
+  year: 1954
+- name: Digital Sorting
+  year: 1954
+- name: Key Sort
+  year: 1954
+- name: Distribution sort
+  year: 1954
+- name: Bubble Sort
+  year: 1956
+- name: Address calculation sorting
+  year: 1956
+- name: Comparison Sort
+  year: 1956
+- name: Radix list sort
+  year: 1956
+- name: Two way insertion sort
+  year: 1957
+- name: Radix Sort (Modifed)
+  year: 1959
+- name: New Merge Sort
+  year: 1959
+- name: Shell Sort
+  year: 1959
+- name: Cascade Merge Sort
+  year: 1960
+- name: PolyPhase Merge Sort/Fobinocii Sort
+  year: 1960
+- name: Mathsort
+  year: 1960
+- name: Quick Sort
+  year: 1961
+- name: Oscillating Merge Sort
+  year: 1962
+- name: Patience Sort
+  year: 1962
+- name: Selection Sort
+  year: 1962
+- name: Topological Sort
+  year: 1962
+- name: Tournament Sort (tree sort)
+  year: 1962
+- name: Tree Sort (Modified)
+  year: 1962
+- name: Shuttle Sort
+  year: 1963
+- name: Biotonic Merge sort
+  year: 1964
+- name: Heap Sort
+  year: 1964
+- name: Batcher Odd-Even Merge Sort
+  year: 1968
+- name: List sort/List merge sort
+  year: 1969
+- name: Improved Quick sort
+  year: 1969
+- name: Brick sort
+  year: 1972
+- name: Binary Merge sort
+  year: 1972
+- name: Gyrating sort
+  year: 1972
+- name: Comb Sort
+  year: 1980
+- name: Proxmap Sort
+  year: 1980
+- name: Smooth Sort
+  year: 1981
+- name: B Sort
+  year: 1985
+- name: Unshuffle Sort
+  year: 1985
+- name: Stooge Sort
+  year: 1990
+- name: American Flag Sort
+  year: 1993
+- name: New Efficient Radix Sort
+  year: 1994
+- name: Self Indexed sort (SIS)
+  year: 1996
+- name: Splay Sort
+  year: 1996
+- name: Flash Sort
+  year: 1997
+- name: Introsort
+  year: 1997
+- name: J Sort
+  year: 1997
+- name: Gnome Sort
+  year: 2000
+- name: Bogo Sort
+  year: 2000
+- name: Tim Sort
+  year: 2002
+- name: Spread sort
+  year: 2002
+- name: Bead Sort
+  year: 2002
+- name: Burst Sort
+  year: 2004
+- name: Libarary Sort
+  year: 2004
+- name: Cycle Sort
+  year: 2005
+- name: Quicker sort
+  year: 2005
+- name: Pancake sorting
+  year: 2008
+- name: U Sort
+  year: 2011
+- name: Counting Position Sort
+  year: 2012
+
